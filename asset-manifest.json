@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-eugene/static/css/main.8353bdda.css",
-    "main.js": "/portfolio-eugene/static/js/main.30b2698c.js",
+    "main.css": "/portfolio-eugene/static/css/main.10920545.css",
+    "main.js": "/portfolio-eugene/static/js/main.8db10f5d.js",
     "static/media/Resume.pdf": "/portfolio-eugene/static/media/Resume.781b69f7eedd38d285b9.pdf",
     "static/media/me.png": "/portfolio-eugene/static/media/me.903fa5992b9ba68e2dd2.png",
+    "static/media/me3.png": "/portfolio-eugene/static/media/me3.0a2223baca75a9fc0474.png",
     "index.html": "/portfolio-eugene/index.html",
-    "main.8353bdda.css.map": "/portfolio-eugene/static/css/main.8353bdda.css.map",
-    "main.30b2698c.js.map": "/portfolio-eugene/static/js/main.30b2698c.js.map"
+    "main.10920545.css.map": "/portfolio-eugene/static/css/main.10920545.css.map",
+    "main.8db10f5d.js.map": "/portfolio-eugene/static/js/main.8db10f5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8353bdda.css",
-    "static/js/main.30b2698c.js"
+    "static/css/main.10920545.css",
+    "static/js/main.8db10f5d.js"
   ]
 }
